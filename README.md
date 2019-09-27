@@ -9,6 +9,9 @@ The content included in this short course is a series of slides, which briefly e
 Any questions, comments or contributions are welcome and do not hesitate to contact me.
 
 César Hernández.
+
 Postdoc Fellow.
+
 Machine learning
+
 chernandez@bcamath.org
